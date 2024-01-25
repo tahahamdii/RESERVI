@@ -7,6 +7,9 @@ const poppins = Poppins({ subsets: ["latin"], weight:['400','500','600','700'],v
 export const metadata: Metadata = {
   title: "Reservi",
   description: "Reservi lyum khir mn ghodwa",
+  icons:{
+    icon: '/assets/images/logo.svg'
+  }
 };
 
 export default function RootLayout({
