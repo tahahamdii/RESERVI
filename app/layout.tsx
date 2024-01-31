@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   title: "Reservi",
   description: "Reservi lyum khir mn ghodwa",
   icons:{
-    icon: '/assets/images/logo.svg'
+    icon: '/assets/images/1.svg'
   }
 };
 
